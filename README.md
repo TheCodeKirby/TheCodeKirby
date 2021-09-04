@@ -2,7 +2,7 @@
 - 👀 I’m interested in game
 - 🌱 I’m currently learning game
 - 💞️ I’m looking to collaborate on game
-- 📫 How to reach me ga,e
+- 📫 How to reach me game
 
 <!---
 TheCodeKirby/TheCodeKirby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
